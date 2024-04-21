@@ -1,2 +1,2 @@
 # recipes_site
-This is a foundation project on odin-project, which i will be demonstrating basic html skills by developing a recipe website
+This is a project which i will be demonstrating basic html and css skills by developing a recipe website
